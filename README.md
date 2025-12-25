@@ -85,6 +85,10 @@ Files:
 
 If `--html` is used, an interactive `bundle-report.html` is generated in your working directory.
 
+### When compression is used
 <img width="1512" height="774" alt="Screenshot 2025-12-25 at 2 58 28 PM" src="https://github.com/user-attachments/assets/682ff9df-c505-4daf-87ea-d36801b51335" />
+
+### When compression is not used
+<img width="1512" height="767" alt="Screenshot 2025-12-25 at 3 02 00 PM" src="https://github.com/user-attachments/assets/4d22cee5-26d2-4c43-8889-9dfc30b94c50" />
 
 Made with ❤️ by [balajikamalesh](https://github.com/balajikamalesh)
