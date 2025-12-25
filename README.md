@@ -85,4 +85,6 @@ Files:
 
 If `--html` is used, an interactive `bundle-report.html` is generated in your working directory.
 
+<img width="1512" height="774" alt="Screenshot 2025-12-25 at 2 58 28 PM" src="https://github.com/user-attachments/assets/682ff9df-c505-4daf-87ea-d36801b51335" />
+
 Made with ❤️ by [balajikamalesh](https://github.com/balajikamalesh)
