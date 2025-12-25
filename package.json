@@ -1,0 +1,28 @@
+{
+  "name": "frontend-bundle-analyzer",
+  "version": "1.0.0",
+  "description": "A CLI tool that: - Accepts a build output directory - Analyzes JS/CSS asset sizes - Breaks down size by file, type, gzip, brotli - Identifies heavy dependencies - Outputs human-readable + JSON reports - (Optional) Generates interactive HTML visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balajikamalesh/frontend-bundle-analyzer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/balajikamalesh/frontend-bundle-analyzer/issues"
+  },
+  "bin": {
+    "bundle-analyzer": "./bin/index.js"
+  },
+  "homepage": "https://github.com/balajikamalesh/frontend-bundle-analyzer#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^14.0.2"
+  }
+}
